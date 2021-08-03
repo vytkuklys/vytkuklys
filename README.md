@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </br>
 
 
-My name is Vytautas Kuklys. I code with passion and find great joy in developing more and more complex projects.
+My name is Vytautas Kuklys. I code with passion and find great joy in developing increasingly complex projects.
 
 I am primarily focused on front-end development. Yet find low-level programming languages peculiar and worthy of attention, too.
 
