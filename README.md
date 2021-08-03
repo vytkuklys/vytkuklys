@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <hr/>
 
 ## 🔭 About
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vytautas-k-834996202/)](https://www.linkedin.com/in/vytautas-k-834996202/) 
-[![Medium Badge](https://img.shields.io/badge/-@vtts.kuklys-03a57a?style=flat-square&labelColor=black&logo=Medium&color=black&link=https://medium.com/@vtts.kuklys)](https://medium.com/@vtts.kuklys)
-[![Gmail Badge](https://img.shields.io/badge/-vtts.kuklys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vtts.kuklys@gmail.com)](mailto:vtts.kuklys@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vytautas-k-834996202/)](https://www.linkedin.com/in/vytautas-k-834996202/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=black&logo=Medium&color=black&link=https://medium.com/@vtts.kuklys)](https://medium.com/@vtts.kuklys)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vtts.kuklys@gmail.com)](mailto:vtts.kuklys@gmail.com)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vytkuklys&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </br>
 
@@ -38,7 +38,6 @@ I am primarily focused on front-end development. Yet find low-level programming 
 - Solving Memory management, Data structure and Algorithm questions in **C**
 
 ## :hammer_and_wrench: Tools
-- Github
+- Version Control - Github
 - Visual Studio Code
 - Figma
-- 
