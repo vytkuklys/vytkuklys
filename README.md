@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vytautas-k-834996202/)](https://www.linkedin.com/in/vytautas-k-834996202/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=plastic&labelColor=black&logo=Medium&color=black&link=https://medium.com/@vtts.kuklys)](https://medium.com/@vtts.kuklys)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vtts.kuklys@gmail.com)](mailto:vtts.kuklys@gmail.com)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vytkuklys&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vytkuklys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vytkuklys&layout=compact&bg_color=151515&text_color=f3f3f3">
 
 </br>
 
