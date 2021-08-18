@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=plastic&labelColor=black&logo=Medium&color=black&link=https://medium.com/@vtts.kuklys)](https://medium.com/@vtts.kuklys)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vtts.kuklys@gmail.com)](mailto:vtts.kuklys@gmail.com)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vytkuklys&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vytkuklys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
 
 
