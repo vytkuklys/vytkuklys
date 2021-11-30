@@ -27,7 +27,7 @@ My name is Vytautas Kuklys. I code with passion and find great joy in developing
 
 I am primarily focused on front-end development. Yet find low-level programming languages peculiar and worthy of attention, too.
 
-You can find my portfolio website <a href="https://vytkuklys.com" target="_blank">here</a>
+You can find my portfolio website <a href="https://vytkuklys.com" target="_blank">here</a>.
 
 ## ⚡ Technologies
 - Front-end development <span style="color: blue;">using</span> **HTML, Javascript, CSS**
